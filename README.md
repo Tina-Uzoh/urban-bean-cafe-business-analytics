@@ -3,10 +3,12 @@
 A data-driven business analytics project analysing sales performance, customer behaviour, and digital engagement using Power BI.  
 
 This project demonstrates how data can be transformed into actionable insights to support strategic decision-making in a retail environment.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🎯 Business Problem
 Urban Bean Café requires insights into sales performance and customer behaviour to improve revenue, optimise product offerings and enhance customer engagement.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🚀 Solution  
 Designed and developed an interactive Power BI dashboard to analyse key business metrics, identify trends, and support data-driven decision-making.
@@ -69,6 +71,7 @@ The project provides actionable insights to support better business decisions, i
 The data model integrates transaction data, customer engagement, website analytics, and calendar data to enable efficient analysis across multiple business dimensions.
 
 ![Data Model](data-model.png)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📊 Dashboard Preview
