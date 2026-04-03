@@ -41,6 +41,11 @@ This project demonstrates how data-driven insights can support product positioni
 The project provides actionable insights that can support better business decisions, improve customer experience and drive revenue growth.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Data Model
+
+The data model integrates transaction data, customer engagement, website analytics and calendar data to support analysis across multiple business dimensions.
+
+![Data Model](data-model.png)
 
 ## 📊 Dashboard Preview
 
