@@ -37,17 +37,19 @@ The project provides actionable insights that can support better business decisi
 
 ## Dashboard Preview
 
+## Dashboard Preview
+
 ### Monthly Revenue Trend
-![Monthly Revenue](Monthly Revenue.png)
+![Monthly Revenue](./Monthly%20Revenue.png)
 
 ### Top Products by Revenue
-![Top Products](Top Product.png)
+![Top Products](./Top%20Product.png)
 
 ### Customer Segment Analysis
-![Customer Segment](Customer Segemt.png)
+![Customer Segment](./Customer%20Segment.png)
 
 ### Engagement by Platform
-![Engagement](Engagement.png)
+![Engagement](./Engagement.png)
 
 ### Most Viewed Products
-![Most Viewed](Most viewed.png)
+![Most Viewed](./Most%20viewed.png)
