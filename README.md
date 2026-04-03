@@ -41,6 +41,23 @@ This project demonstrates how data-driven insights can support product positioni
 The project provides actionable insights that can support better business decisions, improve customer experience and drive revenue growth.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🔄 Project Workflow
+
+1. Data Collection  
+   - Gathered transaction, customer, social media and website data  
+
+2. Data Cleaning  
+   - Cleaned and transformed data using Excel and Power BI  
+
+3. Data Modelling  
+   - Built relationships across multiple datasets to enable integrated analysis  
+
+4. Data Visualisation  
+   - Developed an interactive dashboard using Power BI  
+
+5. Insight Generation  
+   - Analysed trends to identify key business opportunities and performance drivers  
+
 ## Data Model
 
 The data model integrates transaction data, customer engagement, website analytics and calendar data to support analysis across multiple business dimensions.
