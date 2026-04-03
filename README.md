@@ -44,7 +44,7 @@ The project provides actionable insights that can support better business decisi
 ![Top Products](Top Product.png)
 
 ### Customer Segment Analysis
-![Customer Segment](Customer Segment.png)
+![Customer Segment](Customer Segemt.png)
 
 ### Engagement by Platform
 ![Engagement](Engagement.png)
