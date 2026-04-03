@@ -1,43 +1,48 @@
-# Urban Bean Café Business Analytics
+# 📊 Urban Bean Café Business Analytics
 
-Developed a business analytics solution for Urban Bean Café to evaluate sales performance, customer behaviour and digital engagement using data visualisation and dashboard reporting.
+A data-driven business analytics project analysing sales performance, customer behaviour, and digital engagement using Power BI.
 
-## Project Overview
-This project analyses key business metrics, including revenue trends, product performance, customer segmentation and social media engagement, to support data-driven decision-making.
+This project demonstrates how data can be transformed into actionable insights to support strategic decision-making in a retail environment.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Business Problem
+## 🎯 Business Problem
 Urban Bean Café requires insights into sales performance and customer behaviour to improve revenue, optimise product offerings and enhance customer engagement.
 
-## Objectives
+## 📌 Objectives
 - Increase daily footfall and in-store sales  
 - Improve customer engagement across digital platforms  
 - Analyse customer purchasing behaviour  
 - Support data-driven marketing and product decisions  
 
-## Tools & Technologies
-- Power BI  
-- Excel  
-- Data Visualisation  
+## 🛠 Tools & Technologies
+- Power BI (Dashboard development and visual analytics)
+- Excel (Data cleaning and preparation)
+- DAX (Measures and calculations)
+- Data Visualisation
+- Business Intelligence
 
-## Dashboard Features
+## 📊 Dashboard Features
 - Monthly Revenue Trend  
 - Top 10 Products by Revenue  
 - Revenue by Customer Segment  
 - Engagement Rate by Platform
 - Most viewed items 
 
-## Key Insights
+## 💡 Key Insights
 - Identified top-performing products contributing to revenue growth  
 - Highlighted customer segments driving the most sales  
 - Revealed trends in digital engagement across platforms  
-- Provided insights to support targeted marketing strategies  
+- Provided insights to support targeted marketing strategies
+
+## 📈 Business Impact
+This project demonstrates how data-driven insights can support product positioning, customer targeting and better decision-making to improve business performance.
 
 ## Outcome
 The project provides actionable insights that can support better business decisions, improve customer experience and drive revenue growth.
 
-## Dashboard Preview
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Dashboard Preview
+## 📊 Dashboard Preview
 
 ### Monthly Revenue Trend
 ![Monthly Revenue](./Monthly%20Revenue.png)
