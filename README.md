@@ -23,7 +23,8 @@ Urban Bean Café requires insights into sales performance and customer behaviour
 - Monthly Revenue Trend  
 - Top 10 Products by Revenue  
 - Revenue by Customer Segment  
-- Engagement Rate by Platform  
+- Engagement Rate by Platform
+- Most viewed items 
 
 ## Key Insights
 - Identified top-performing products contributing to revenue growth  
@@ -33,3 +34,20 @@ Urban Bean Café requires insights into sales performance and customer behaviour
 
 ## Outcome
 The project provides actionable insights that can support better business decisions, improve customer experience and drive revenue growth.
+
+## Dashboard Preview
+
+### Monthly Revenue Trend
+![Monthly Revenue](Monthly Revenue.png)
+
+### Top Products by Revenue
+![Top Products](Top Product.png)
+
+### Customer Segment Analysis
+![Customer Segment](Customer Segment.png)
+
+### Engagement by Platform
+![Engagement](Engagement.png)
+
+### Most Viewed Products
+![Most Viewed](Most viewed.png)
